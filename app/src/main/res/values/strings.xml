@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calculator_app_text">Calculator App</string>
+    <string name="enter_first_number_text_field">Enter First Number</string>
+    <string name="enter_second_number_text_field">Enter Second Number</string>
+    <string name="calculator_image_source">Calculator Image</string>
+    <string name="plus_btn_text">+</string>
+    <string name="minus_btn_text">-</string>
+    <string name="product_btn_text">X</string>
+    <string name="divide_btn_text">/</string>
+    <string name="result_text">Please enter first and second number and then click the operation button to see the result</string>
+</resources>
